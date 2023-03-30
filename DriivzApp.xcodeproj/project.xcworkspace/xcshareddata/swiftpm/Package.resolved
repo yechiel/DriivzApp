@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "af4be924ad984cf4d16f4ae4df424e79a443d435",
+        "version" : "7.6.2"
+      }
+    },
+    {
+      "identity" : "xmlmapper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gcharita/XMLMapper.git",
+      "state" : {
+        "revision" : "f3b02419a42d25332f1beecc2b1aee34ebb7afa0",
+        "version" : "2.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
